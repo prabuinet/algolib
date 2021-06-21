@@ -1,2 +1,2 @@
 # algolib
-algorithm and datastructure library for competitive programming and interviews
+algorithm and data structure library for competitive programming and interviews
